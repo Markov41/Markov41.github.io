@@ -2,7 +2,7 @@
 layout: post
 title: Bloccit
 feature-img: "img/sample_feature_img.png"
-thumbnail-path: "img/bloccit-landing.png"
+thumbnail-path: "img/Bloccit-Landing.png"
 short-description: CHART Report Template
 
 ---
