@@ -1,8 +1,8 @@
 ---
 layout: post
-title: CHART
+title: Bloccit
 feature-img: "img/sample_feature_img.png"
-thumbnail-path: "img/Chat.png"
+thumbnail-path: "img/bloccit-landing.png"
 short-description: CHART Report Template
 
 ---
@@ -15,6 +15,6 @@ Patient's eyes are open, +tracking, no facial droop noted, teeth intact, -JVD, m
 
 R - Patient requires no special equipment or interventions during transportation.
 
-T - Patient was moved from bed to stretcher via draw sheet method and is secured with seatbelts and handrails. Patient loaded into unit without incident. Vital signs assessed during transportation and were found to be within normal ranges. Upon arrival at destination, patient was taken to and is transferred via drawsheet to bed with siderails raised x2. Patient care and paperwork transferred to nursing staff. Signatures obtained.
+T - Patient was moved from bed to stretcher via draw sheet method and is secured with seatbelts and handrails. Patient loaded into unit without incident. Vital signs assessed during transportation and were found to be within normal ranges. Upon arrival at destination, patient was taken to room and is transferred via drawsheet to bed with siderails raised x2. Patient care and paperwork transferred to nursing staff. Signatures obtained.
 
 Kevin Lattner EMT-P

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BlocJams
-feature-img: "img/sample_feature_img.png"
+feature-img: "img/bloc_jams_bg.jpg"
 thumbnail-path: "img/BJA.png"
 short-description: BlocJams - Play your music anywhere!
 
